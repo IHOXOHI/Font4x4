@@ -4,4 +4,4 @@ Easy to understand manipulate and adapt to different kind of display
 
 I'm newbee and open to alls advice.
 
-Project : working too with uasyncio... Until now, it isn't...
+Project : working too with uasyncio... Until now, it isn't.
